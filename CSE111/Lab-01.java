@@ -527,29 +527,12 @@ public class Task_IdMtrx
 
 
 
-                                                                 Ans. to the Q. No.-10
+                                                                
 
 
 
 
-import java.util.Scanner;
-public class Task_Treasure
-{
-  public static void main(String[] args) 
-  {
-    Scanner sc = new Scanner(System.in);
-    int [][] arr2Dgrd = {{0, 0, 10, 0, -1},
-                      {0, -1, 0, 0, -1},
-                      {-1, 0, -1, 0, 0},
-                      {0, -1, 7, 0, -1},
-                      {0, -1, 0, -1, 0}};
-    int pos1 = 3;
-    int pos2 =2;
-    int moves = 5;
-    
-    System.out.println("Initial Map:");
-    
-    for(i = 0; i < arr2Dgrd.length; i++){
+
     
 
 
